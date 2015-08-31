@@ -4,7 +4,7 @@ layout: home
 
 <div class="banner">
 
-h1. Hello.
+h2. Hello.
 
 </div>
 
