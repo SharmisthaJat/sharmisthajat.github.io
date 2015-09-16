@@ -602,7 +602,7 @@ body.home #content div.section {
 
 
 /* projects listing */
-
+/*
 .projects article {    
     }
     .projects #content article h3 {
@@ -613,7 +613,7 @@ body.home #content div.section {
     .projects #content article ul {
         text-align: left;
         list-style: none;
-        margin-left: 0px;/*1em;*/
+        margin-left: 0px;
         margin-left: 160px;
         padding-bottom: 20px;
         }
@@ -640,9 +640,9 @@ body.home #content div.section {
             line-height: 1.4em;
             margin-top: 5px;
             }
-
+*/
 /* journal/blog listing */
-
+/*
 .journal article ul.archive {
     }
     .journal #content article ul.archive {
@@ -674,7 +674,7 @@ body.home #content div.section {
                 color: {{ site.colors.mono.dark }};
                 border-bottom: 1px solid {{ site.colors.mono.dark }};
                 }            
-
+*/
 /* pygments code highlighting */
 
 pre, 
