@@ -10,9 +10,9 @@ author:
     name: Sharmistha Jat
 
 sections:
- - Publications
+ - publications
  - about
- - Projects
+ - projects
 stylesheets:
  - /assets/themes/default/css/screen.css?52480=52480
  - /assets/themes/default/css/print.css
