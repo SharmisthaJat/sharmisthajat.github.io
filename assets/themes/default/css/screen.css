@@ -432,6 +432,7 @@ nav#main_nav {
         #backpages div.projects {
             background-image: url(../images/previewa.png);
             }
+            /*
 
 #footer-wrapper {
     clear: both;
@@ -531,7 +532,7 @@ nav#main_nav {
         footer p {
             padding-bottom: 1em;
             }
-
+*/
 
 /* page-specific styling */
 
@@ -547,7 +548,7 @@ body.home #content div.banner {
         top: -10px;
     	}
 body.home #content div.colophon {
-    margin-top: 30px;
+    margin-top: 300px;
     background-image: url(../images/portrait.jpg);
     background-position: top right;
     background-repeat: no-repeat;
