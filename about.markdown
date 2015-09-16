@@ -1,7 +1,7 @@
 ---
-title: About
+title: About1
 tags:  []
-layout: about
+layout: about1
 ---
 
 ## The Author
