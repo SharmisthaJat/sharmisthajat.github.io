@@ -84,7 +84,7 @@ table {
 /* globals */
 
 /* highlight colors */
-.projects { color: {{ site.colors.highlights.blue }} }
+.projects= { color: {{ site.colors.highlights.blue }} }
 .about { color: {{ site.colors.highlights.green }} }
 .journal { color: {{ site.colors.highlights.red }} }
 	
@@ -175,7 +175,7 @@ body {
 		width: 100%;
 		height: 100%;
 		display: block;
-		background-image: url(../images/logo.png);
+		content:HomePage;
 		border-bottom: 0px;
 		}
 		#title a:hover {
